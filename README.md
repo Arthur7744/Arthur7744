@@ -6,3 +6,4 @@ university education
 
 - I'm currently learning C#
 - I have basic knowledge of HTML, CSS, JavaScript and I'm looking to improve 
+- How to reach me: arthurproenca23@gmail.com
